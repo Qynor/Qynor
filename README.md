@@ -1,7 +1,4 @@
-## Hey There 👋
 
-I'm Stepans, a beginner web developer, currently learning the basic of frontend and backend.
-I actively improving my skills.
 
 <div align="center">
 
