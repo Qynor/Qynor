@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm a beginner Frontend Developer.
+<h4>I'm a beginner Frontend Developer.<h4/>
 My skills:
   
   ![React](https://img.shields.io/badge/react-react?style=for-the-badge&logo=react&logoColor=white&labelColor=14171A&color=14171A&cacheSeconds=3600)
