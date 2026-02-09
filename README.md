@@ -1,4 +1,4 @@
-<div align="center" gap="2">
+<div align="center">
 
 <h4>I'm a beginner Frontend Developer.<h4/>
 
