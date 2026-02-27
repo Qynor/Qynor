@@ -8,10 +8,4 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qynor&show_icons=true&theme=radical&cache_seconds=1800" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qynor&layout=compact&theme=radical&cache_seconds=1800" />
-
 </div>
