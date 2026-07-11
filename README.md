@@ -1,6 +1,4 @@
-Hello there 👋 
-
-
+<div align="center">Hello there 👋</div>
 
 I'm Stephen G, a Frontend Developer passionate about building modern, fast, and user-friendly, web experience.
 
