@@ -19,5 +19,5 @@
 
 <h2>My skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,css,html,js,tailwindcss,typescript,scss,svelte,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,css,html,js,tailwindcss,typescript,scss,svelte,vuejs, &perline=3)](https://skillicons.dev)
 <h2>Contact</h2>
